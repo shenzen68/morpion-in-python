@@ -1,2 +1,4 @@
-# morpion-in-python
-morpion in python with pygame
+morpion
+=======
+
+morpion with pygame : python 2
